@@ -1,0 +1,10 @@
+@charset "ISO-8859-1";
+
+* {
+	box-sizing: border-box;
+}
+
+body {
+	text-align: center;
+	background-color: blue;
+}
